@@ -70,7 +70,7 @@ This project helped in understanding business performance through visualization 
 
 # Author
 
-Shivam kharola
+Paras Tiwari
 
 ---
 
